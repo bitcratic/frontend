@@ -10,7 +10,7 @@ Using the Ether Delta smart contract and Fork Delta order book source code, Bitc
 
 
 # How does BitCratic Work?
-BitCratic currently interfaces with EtherDelta's original smart contract (described in more detail [here](https://www.reddit.com/r/EtherDelta/comments/6kdiyl/smart_contract_overview/)) which allows ForkDelta users to trade utilizing EtherDelta's volume.
+BitCratic currently interfaces with EtherDelta's original smart contract  which allows BitCratic users to trade utilizing EtherDelta's volume.
 
 
 
