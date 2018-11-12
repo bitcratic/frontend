@@ -1,6 +1,5 @@
 # BitCratic
-[![Chat on Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/MPvAfMa)
-[![Join us on Reddit](https://img.shields.io/badge/reddit-ForkDelta-red.svg)](https://www.reddit.com/r/ForkDelta/)
+
 
 ForkDelta is a decentralized Ethereum Token Exchange with the most ERC20 listings of any exchange.
 
