@@ -5,15 +5,13 @@ ForkDelta is a decentralized Ethereum Token Exchange with the most ERC20 listing
 
 
 # What is BitCratic?
-ForkDelta currently acts as an open source, updated interface for EtherDelta's smart contract with an active and public development team. Although ForkDelta started as a fork of EtherDelta, considerable development time has been put towards a new token listing system, order book, API, and front-end UI all of which are at different stages of development and can be tracked on [GitHub](https://github.com/forkdelta/). 
+Using the Ether Delta smart contract and Fork Delta order book source code, Bitcratic is a semi-decentralized exchange for ERC20 tokens use off-chain order book with the on-chain settlement. The majority of the operation will handle direct on the Blockchain thereby traders never has to go for the ownership for their tokens, enabling the whole system to deal with money transfers and execute trades in a trustless manner.             
+(https://github.com/bitcratic/). 
 
 
 # How does BitCratic Work?
 ForkDelta currently interfaces with EtherDelta's original smart contract (described in more detail [here](https://www.reddit.com/r/EtherDelta/comments/6kdiyl/smart_contract_overview/)) which allows ForkDelta users to trade utilizing EtherDelta's volume.
 
-
-# What is the Roadmap for ForkDelta?
-The ForkDelta Roadmap is maintained at https://forkdelta.app/about/
 
 
 # Contribute
