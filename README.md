@@ -1,4 +1,4 @@
-# BitCratic
+# ![Bitcratic logo](https://www.bitcratic.com/images/bitcratic1.png) Bitcratic 
 
 BitCratic is a decentralized Ethereum Token Exchange with the most ERC20 listings of any exchange.
 
